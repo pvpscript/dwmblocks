@@ -9,7 +9,7 @@ static const Block blocks[] = {
 
 	{"", "memory",				5,		0},
 
-	{"", "battery",				5,		0},
+	{"", "battery",				5,		12},
 	
 	{"", "cpu",				5,		0},
 
